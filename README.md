@@ -11,3 +11,30 @@ The main goal of the project is to get some experience in building translation-a
 of recurrent neural network better.
 
 **Learning and having FUN!**
+
+<h2>Table of Content</h2>
+
+1. [prepare.py](https://github.com/mishazakharov/NMT/blob/master/prepare.py)
+    * This file contains code for data preparation, getting rid of punctuation etc...
+    
+2. [split.py](https://github.com/mishazakharov/NMT/blob/master/split.py)
+    * This file contains code for reducing and splitting main dataset.
+    
+3. [model.py](https://github.com/mishazakharov/NMT/blob/master/model.py)
+    * This file contains code for loading prepared data, loading pre-trained word embeddings, preparing embedding matrix,
+      compiling and training a model. You can choose the number of epochs yourself. Mine was trained only within 30 epochs!
+      
+4. [predict.py](https://github.com/mishazakharov/NMT/blob/master/predict.py)
+    * This file containcs code for preparing user's sentence and running our trained model on it.
+    
+5. [models](https://github.com/mishazakharov/NMT/tree/master/models)
+    * This folder contains my pre-trained network.
+    
+6. [data](https://github.com/mishazakharov/NMT/tree/master/data)
+    * This folder contains the data I've trained my seq2seq on and compressed *Pickle* files you need to run predict.py.
+    
+7. [glove](https://github.com/mishazakharov/NMT/tree/master/glove)
+    * This folder contains a HTML file that redirects to the download site for pre-trained embeddings.
+    
+    
+
