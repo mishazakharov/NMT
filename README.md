@@ -41,8 +41,15 @@ of recurrent neural network better.
 
 **Some images explaining seq2seq architecture:**
 
+1. General ideas about architecture.
 ![image](https://miro.medium.com/max/1400/1*3lj8AGqfwEE5KCTJ-dXTvg.png)
 
 ![image](https://miro.medium.com/max/1400/1*1JcHGUU7rFgtXC_mydUA_Q.jpeg)
+
+2. Encoder configuration.
+![image](https://miro.medium.com/max/1400/1*3pH2NH_8i7QMxpV0TFOdxw.jpeg)
+
+3. Decoder configuration.
+![image](https://miro.medium.com/max/1400/1*sDlV9_-PXBlt8jol-7Xjhg.jpeg)
     
 
