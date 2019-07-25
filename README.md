@@ -16,7 +16,7 @@ of recurrent neural network better.
 
 1. [prepare.py](https://github.com/mishazakharov/NMT/blob/master/prepare.py)
     * This file contains code for data preparation, getting rid of punctuation etc...
-    
+    [
 2. [split.py](https://github.com/mishazakharov/NMT/blob/master/split.py)
     * This file contains code for reducing and splitting main dataset.
     
@@ -39,6 +39,10 @@ of recurrent neural network better.
     
 <h2>Seq2Seq</h2>
 
+**Some images explaining seq2seq architecture:**
 
+![image](https://miro.medium.com/max/1400/1*3lj8AGqfwEE5KCTJ-dXTvg.png)
+
+![image](https://miro.medium.com/max/1400/1*1JcHGUU7rFgtXC_mydUA_Q.jpeg)
     
 
