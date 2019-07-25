@@ -1,4 +1,4 @@
-# NMT
+# Neural Machine Translation
 
 <h2>About</h2>
 
