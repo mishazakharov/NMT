@@ -47,6 +47,26 @@ of recurrent neural network better.
 
 2. Links that can help you figure it out and which I used: [1](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-model-encoderdecoder-model-6c22e29fd7e1),[2](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346),[3](https://machinelearningmastery.com/introduction-neural-machine-translation/),[4](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/),[5](https://keras.io/examples/pretrained_word_embeddings/),[6](https://www.youtube.com/watch?v=XXtpJxZBa2c)
 
+<h2>Installation</h2>
+
+```
+git clone https://github.com/mishazakharov/NMT
+cd NMT
+python3 prepare.py
+```
+
+In case you want to train network yourself:
+
+```
+python3 model.py
+```
+
+<h2>Contact</h2>
+
+If you want to work on this together or just feeling social, feel free to contact me [here](https://vk.com/rtyyu).
+And I am also available at this(misha_zakharov96@mail.ru) and this(vorahkazmisha@gmail.com) email addresses!
+**Feel free** to give me any advice. :+1:
+
 
 
 
