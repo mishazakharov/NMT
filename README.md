@@ -39,17 +39,15 @@ of recurrent neural network better.
     
 <h2>Seq2Seq</h2>
 
-**Some images explaining seq2seq architecture:**
 
 1. General ideas about architecture.
 ![image](https://miro.medium.com/max/1400/1*3lj8AGqfwEE5KCTJ-dXTvg.png)
 
 ![image](https://miro.medium.com/max/1400/1*1JcHGUU7rFgtXC_mydUA_Q.jpeg)
 
-2. Encoder configuration.
-![image](https://miro.medium.com/max/1400/1*3pH2NH_8i7QMxpV0TFOdxw.jpeg)
+2. Links that can help you figure it out and which I used: [1](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-model-encoderdecoder-model-6c22e29fd7e1),[2](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346),[3](https://machinelearningmastery.com/introduction-neural-machine-translation/),[4](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/),[5](https://keras.io/examples/pretrained_word_embeddings/),[6](https://www.youtube.com/watch?v=XXtpJxZBa2c)
 
-3. Decoder configuration.
-![image](https://miro.medium.com/max/1400/1*sDlV9_-PXBlt8jol-7Xjhg.jpeg)
-    
+
+
+
 
