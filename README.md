@@ -14,7 +14,6 @@ of recurrent neural network better.
 
 <h2>Table of Content</h2>
 
-
 1. [prepare.py](https://github.com/mishazakharov/NMT/blob/master/prepare.py)
     * This file contains code for data preparation, getting rid of punctuation etc...
     
@@ -37,5 +36,9 @@ of recurrent neural network better.
 7. [glove](https://github.com/mishazakharov/NMT/tree/master/glove)
     * This folder contains a HTML file that redirects to the download site for pre-trained embeddings.
     
+    
+<h2>Seq2Seq</h2>
+
+
     
 
