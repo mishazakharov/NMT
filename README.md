@@ -8,7 +8,7 @@ To solve the problem of neural machine translation, I used seq2seq recurrent neu
 
 > The purpose of this project is not to make as optimized and computationally effective translation application as possible.
 
-The main goal of the project is to get some experience in building translation-applications and understand seq2seq      architecure
+> The main goal of the project is to get some experience in building translation-applications and understand seq2seq      architecure
 of recurrent neural network better.
 
 **Learning and having FUN!**
