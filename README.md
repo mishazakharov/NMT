@@ -61,6 +61,13 @@ In case you want to train network yourself:
 python3 model.py
 ```
 
+Before you run any files you need to do:
+
+```
+./NMT/glove/glove.html
+unzip ./NMT/data/data.zip
+```
+
 <h2>Contact</h2>
 
 If you want to work on this together or just feeling social, feel free to contact me [here](https://vk.com/rtyyu).
