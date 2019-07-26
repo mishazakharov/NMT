@@ -6,6 +6,8 @@ This is a *SMALL* neural machine translation application that can translate from
 
 To solve the problem of neural machine translation, I used seq2seq recurrent neural network architecture and pre-trained word embeddings([GloVe](https://nlp.stanford.edu/projects/glove/)). This project implements everything from downloading / preparing data to launching an application on a user's sentence. The network has been trained in 20,000 pairs of phrases over 30 epochs.
 
+![image](https://miro.medium.com/max/1400/1*3lj8AGqfwEE5KCTJ-dXTvg.png)
+
 > The purpose of this project is not to make as optimized and computationally effective translation application as possible.
 
 > The main goal of the project is to get some experience in building translation-applications and understand seq2seq      architecure
@@ -42,8 +44,6 @@ of recurrent neural network better.
 
 
 1. General ideas about architecture.
-![image](https://miro.medium.com/max/1400/1*3lj8AGqfwEE5KCTJ-dXTvg.png)
-
 ![image](https://miro.medium.com/max/1400/1*1JcHGUU7rFgtXC_mydUA_Q.jpeg)
 
 2. Links that can help you figure it out and which I used: [1](https://towardsdatascience.com/nlp-sequence-to-sequence-networks-part-2-seq2seq-model-encoderdecoder-model-6c22e29fd7e1),[2](https://towardsdatascience.com/understanding-encoder-decoder-sequence-to-sequence-model-679e04af4346),[3](https://machinelearningmastery.com/introduction-neural-machine-translation/),[4](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/),[5](https://keras.io/examples/pretrained_word_embeddings/),[6](https://www.youtube.com/watch?v=XXtpJxZBa2c)
